@@ -1,5 +1,11 @@
+import { Box } from "@mui/material";
+
 const Header = () => {
-  return <>header</>;
+  return (
+    <>
+      <Box>header</Box>
+    </>
+  );
 };
 
 export default Header;

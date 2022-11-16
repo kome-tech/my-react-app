@@ -1,5 +1,10 @@
+import { Box } from "@mui/material";
 const Footer = () => {
-  return <>footer</>;
+  return (
+    <>
+      <Box>footer</Box>
+    </>
+  );
 };
 
 export default Footer;
